@@ -1,0 +1,49 @@
+.container{
+    border: 2px solid;
+    height: 50%;
+    width: 300px;
+    margin: auto;
+    padding: 20px;
+    background-color: beige;
+}
+.box img{
+    height: 150px;
+    width: 150px;
+    border: 2px solid;
+    border-radius: 50%;
+    
+}
+
+.name{
+    text-align: center;
+    font-size:xx-large;
+}
+p{
+    font-size: large;
+    margin-top: auto;
+    font-weight: bold;
+    color: blue;
+}
+#nav{
+    border: 2px solid;
+    height: 60px;
+    display: flex;
+    justify-content:space-evenly;
+    background-color: rgb(128, 75, 116);
+    position:sticky;
+    top:0px;
+}
+
+#box1,#box2,#box3,#box4{
+   padding: 10px;
+    border: 2px solid;
+    height: 20px;
+    width:60px ;
+    margin: 10px;
+    background-color:aqua;
+  
+}
+
+
+
+
